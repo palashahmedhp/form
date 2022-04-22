@@ -1,0 +1,27 @@
+body {
+  background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 18%, rgba(253,187,45,1) 100%);
+background-repeat: no-repeat;
+}
+
+.mb-4 {
+  padding: 10px 0;
+  width: 200px;
+}
+.abe {
+
+  height: 100px;
+  background: red;
+}
+.abe2 {
+
+  height: 100px;
+  background: yellow;
+}
+.abe3 {
+
+  height: 100px;
+  background: green;
+}
+
+
